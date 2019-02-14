@@ -1,0 +1,73 @@
+/*Page 1 elements*/
+
+span.full_name{
+    font-family: "Courier New", monospace;
+    
+}
+
+body.body1{
+    background-color: beige;
+}
+
+main.main1{
+    background-color: red;
+}
+
+footer.index_ftr1{
+    background-color: olivedrab;
+}
+
+/*Page 2 elements*/
+
+body.body2{
+    background-color: grey;
+}
+
+p.main2{
+    background-color: yellowgreen;
+}
+
+/*Page 3 elements*/
+
+body.body3{
+    background-color: darkblue;
+    color: white;
+}
+
+p.p1{
+    background-color: mediumaquamarine;
+}
+p.p2{
+    background-color: orchid;
+}
+
+footer.index_ftr3{
+    background-color: gray;
+}
+
+div.pictures{
+    overflow: hidden;
+}
+/* elements that are styled commonly between all pages below */
+
+nav{
+    border-color:black;
+    border-style: solid;
+    background-color:orange;
+}
+
+ol{
+    list-style: lower-alpha;
+}
+
+ul{
+    list-style: square;
+}
+
+a{
+    text-decoration: none
+}
+a:hover{
+    text-decoration: underline;
+    font-size:20px;
+}
